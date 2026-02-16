@@ -193,4 +193,8 @@ if(quests.length === 0) {
 	doJob()
 }
 ```
+- (If you're unable to paste into the console, you might have to type `allow pasting` and hit enter)
+- Follow the printed instructions depending on what type of quest you have.
+     - If your quest says to "play" the game or watch a video, you can just wait and do nothing
+     - If your quest says to "stream" the game, join a vc with a friend or alt and stream any window 
 
