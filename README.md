@@ -12,7 +12,7 @@ A concise, step-by-step guide showing how to **complete Discord quests without o
 - Go to the `Console` tab.
 - Paste the following code and hit enter:
 
-	<summary>COPY THE CODE FROM BELOW</summary>
+	<summary>😎 COPY THE CODE FROM BELOW 😎</summary>
 ```
 delete window.$;
 let wpRequire = webpackChunkdiscord_app.push([[Symbol()], {}, r => r]);
