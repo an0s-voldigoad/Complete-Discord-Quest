@@ -260,3 +260,8 @@ A: No. Doing that would put you at risk because I (or someone in my account) cou
 
 ## HOW TO ALLOW PASTING IN DISCORD DEVTOOLS ? 
 <img width="800" height="749" alt="Image" src="https://github.com/user-attachments/assets/c7181725-0d6b-40b3-9abc-596ff8dbee38" />
+
+## 🎥 VIDEO TUTORIAL 📽️
+https://github.com/user-attachments/assets/00d8e153-44c4-4cce-99db-fd2c96ede881
+
+## THANKS FOR VISTING THIS PAGE :)
