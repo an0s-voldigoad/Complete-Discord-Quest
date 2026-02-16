@@ -256,3 +256,7 @@ A: No. The script sometimes requires immediate updates for Discord's changes, an
 **Q: Can you upload the standalone script to a repo and make this gist's code a one line fetch()?**
 
 A: No. Doing that would put you at risk because I (or someone in my account) could change the underlying code to be malicious at any time, then forcepush it away later, and you'd never know.
+
+
+# HOW TO ALLOW PASTING IN DISCORD DEVTOOLS ? 
+- [CLICK HERE](https://chatgpt.com/s/t_6992cf6b4f488191ac2e5605c86e13ba)
