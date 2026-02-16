@@ -13,9 +13,8 @@ A concise, step-by-step guide showing how to **complete Discord quests without o
 - Paste the following code and hit enter:
 <details>
 	<summary>Click to expand</summary>
-	```
-	
-delete window.$;
+```
+	delete window.$;
 let wpRequire = webpackChunkdiscord_app.push([[Symbol()], {}, r => r]);
 webpackChunkdiscord_app.pop();
 
@@ -193,5 +192,4 @@ if(quests.length === 0) {
 	}
 	doJob()
 }
-
-```
+```</details>
